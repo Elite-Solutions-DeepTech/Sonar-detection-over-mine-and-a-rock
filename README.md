@@ -1,4 +1,4 @@
-![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx_6LWJOjMaIU7gf8NwY7h2AUID-JU2GIx0Q&s)
+![enter image description here](https://images.app.goo.gl/NpLYdJxBJ4UJiTNQ7)
 # Sonar-detection-over-mine-and-a-rock
 
 ### Abstract:
