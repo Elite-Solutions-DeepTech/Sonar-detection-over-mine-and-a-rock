@@ -14,3 +14,4 @@
 > Machine Learning
 > Logistic regression
 > Python Libraries 
+google colab link; https://colab.research.google.com/drive/15JuC-OLK5CuATyr6iTGsmXkwr8cKoKJw?usp=sharing
